@@ -41,7 +41,6 @@ li:hover{
       <li @click="navItemClicked('Profile')">Your Profile</li>
     </ul>
   </div>
-  
   </div>
 </template>
 
