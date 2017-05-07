@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icn-edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Powwow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-Copy" transform="translate(-57.000000, -482.000000)">
+            <g id="icn-edit" transform="translate(34.000000, 466.000000)">
+                <rect id="icn-edit-bg" fill="#EEF3F5" opacity="0" x="0" y="0" width="121" height="121" rx="8"></rect>
+                <path d="M71.8394577,85.8161458 L61.5635956,109.007909 L51.2877336,85.8161458 L71.8394577,85.8161458 Z M51.2877336,18.2057393 C51.2877336,12.4080188 55.9874687,7.70803773 61.7877336,7.70803773 C67.5867235,7.70803773 72.2877336,12.4078429 72.2877336,18.2057393 L72.2877336,81.9391832 L51.2877336,81.9391832 L51.2877336,18.2057393 Z" stroke="#455A64" stroke-width="6" fill-opacity="0" fill="#D8D8D8" stroke-linejoin="bevel" transform="translate(61.787734, 58.357973) rotate(-315.000000) translate(-61.787734, -58.357973) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

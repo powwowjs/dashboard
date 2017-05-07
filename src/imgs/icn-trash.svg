@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="78px" viewBox="0 0 62 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icn-trash</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Powwow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-Copy" transform="translate(-175.000000, -485.000000)">
+            <g id="icn-trash" transform="translate(146.000000, 466.000000)">
+                <rect id="icn-trash-bg" fill="#EEF3F5" opacity="0" x="0" y="0" width="121" height="121" rx="8"></rect>
+                <path d="M51.4345864,30 L51.4345864,25.0079785 C51.4345864,23.3467178 52.909744,22 54.755962,22 L65.7714278,22 C67.6057729,22 69.0928034,23.3497942 69.0928034,25.0079785 L69.0928034,30 L51.4345864,30 Z M32,31 L32,30 L87.9705074,30 L87.9705074,31 L32,31 Z M84.4390244,38.5097518 L84.4390244,83.5144881 C84.4390244,89.3054764 80.2293588,94 75.0227879,94 L45.4650169,94 C40.2645731,94 36.0487805,89.2919006 36.0487805,83.5144881 L36.0487805,38.5097518 L84.4390244,38.5097518 Z" id="Combined-Shape" stroke="#455A64" stroke-width="6" fill-opacity="0" fill="#D8D8D8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

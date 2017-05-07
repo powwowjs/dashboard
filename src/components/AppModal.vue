@@ -7,7 +7,7 @@
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 100vh;
   background-color: rgba(0, 0, 0, .6);
   display: inline-block;
   transition: all 1s ease;
@@ -17,10 +17,9 @@
   max-width: 900px;
   min-width: 180px;
   margin: 100px auto;
-  padding: 5px 25px 10px 25px;
+  padding: 5px 15px 15px 15px;
   background-color: #fff;
   border-radius: 4px;
-  border-bottom: 5px solid var(--teal);
   box-shadow: 0 2px 8px rgba(0, 0, 0, .33);
   transition: all .3s ease;
 }
@@ -41,7 +40,7 @@
 
             <div class="row row--l">
               <h3>Your Community</h3>
-              <button class="btn-invisible" @click="$emit('close-clicked')"><img class="img--icon" src="./../imgs/icn-x.svg"></button>
+              <button class="btn-invisible" @click="$emit('close-clicked')"><img class="img--s" src="./../imgs/icn-x.svg"></button>
             </div>
 
             <div class="poww-div" stream-widget></div>

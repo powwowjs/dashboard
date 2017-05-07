@@ -118,6 +118,10 @@ a{
   cursor: pointer;
 }
 
+.red{
+  color: tomato;
+}
+
 .bold{
   font-weight: bold;
   margin-bottom: 0;
@@ -199,9 +203,18 @@ a{
   width: 100%;
 }
 
+.row--end{
+  display: flex;
+  justify-content: flex-end;
+}
+
 .row--gradient{
   background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
   min-height: 500px;
+}
+
+.row--border{
+  border: 1px solid var(--mediumgray)
 }
 
 .row--blue{
@@ -271,9 +284,13 @@ a{
   margin: 0 auto;
 }
 
-.img--icon{
+.img--s{
   width: 20px;
   margin-right: 10px;
+}
+
+.img--icon{
+  width: 12px;
 }
 
 @media screen and (max-width: 800px) {
@@ -322,6 +339,11 @@ a{
   border: 1px solid var(--white);
   color: var(--teal);
   background-color: white;
+}
+
+.btn-red{
+  background-color: tomato;
+  color: white;
 }
 
 /*--------Card--------*/
